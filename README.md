@@ -2,8 +2,8 @@
 
 Personal portfolio of **Swati Pandit**, Senior Software Engineer with 6 years of experience in cloud, integration and DevOps.
 
-**Live site:** https://swatipandit30/portfolio_SSE/
-**CV (PDF):** https://swatipandit30/Swati_Pandit_CV.pdf
+**Live site:** https://swatipandit30.github.io/portfolio_SSE/
+**CV (PDF):** https://swatipandit30.github.io/portfolio_SSE/Swati_Pandit_CV.pdf
 
 ## What's on the site
 
